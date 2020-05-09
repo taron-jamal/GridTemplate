@@ -1,5 +1,5 @@
 # GridTemplate
-Static show providing a basic template for web-based projects.
+Static site providing a basic template for web-based projects.
 
 Reference:
 
